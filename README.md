@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)Game Sales and Rating Prediction
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 # Patient Management System API 🏥
 
 A robust and efficient FastAPI-based Patient Management System. This API handles full CRUD (Create, Read, Update, Delete) operations and includes automated health logic.
