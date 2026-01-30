@@ -10,7 +10,7 @@
         "verdict": "Obese"
     },
     "P002": {
-        "name": "bsdk",
+        "name": "rahul",
         "city": "Mumbai",
         "age": 35,
         "gender": "male",
@@ -48,5 +48,15 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
+    },
+    "P006": {
+        "name": "Rohan",
+        "city": "Chandigarh",
+        "age": 18,
+        "gender": "male",
+        "height": 1.45,
+        "weight": 55.0,
+        "bmi": 26.16,
+        "verdict": "overweight"
     }
 }
